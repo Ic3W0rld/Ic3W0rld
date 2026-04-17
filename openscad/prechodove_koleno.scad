@@ -1,7 +1,7 @@
 /* ================================================================
    Prechodové koleno — Rectangular-to-Round Transition Elbow (90°)
 
-   Rectangular opening : rect_w × rect_h  (99 × 236 mm)
+   Rectangular opening : rect_w × rect_h  (90 × 223 mm)
    Circular opening    : Ø circ_d         (Ø 160 mm)
    Elbow angle         : 90°
 
@@ -11,8 +11,8 @@
    ================================================================ */
 
 // ── User Parameters ─────────────────────────────────────────────
-rect_w   = 99;    // rectangular duct width  [mm]
-rect_h   = 236;   // rectangular duct height [mm]
+rect_w   = 90;    // rectangular duct width  [mm]
+rect_h   = 223;   // rectangular duct height [mm]
 circ_d   = 160;   // circular duct diameter  [mm]
 
 wall_t   = 1.5;   // wall thickness          [mm]
